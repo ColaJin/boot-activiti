@@ -1,0 +1,13 @@
+
+>
+java:S1148e"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+4
+java:S2176"Rename this class.(þüÿÿÿÿ8êÉŸ½¼.
+`
+java:S2147f"ECombine this catch with the one at line 100, which has the same body.(¥¨›ýÿÿÿÿ
+h
+java:S37765"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(žá¨Ã
+>	java:S108M")Either remove or fill this block of code.(°òÒ¬
+s	java:S135?"YReduce the total number of break and continue statements in this loop to use at most one.(¡´”ùÿÿÿÿ
+>
+java:S1148h"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

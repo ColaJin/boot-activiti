@@ -1,0 +1,63 @@
+spring:
+  activiti:
+    database-schema-update: true
+    history-level: full
+    db-history-used: true
+    check-process-definitions: false # 自动部署验证设置:true-开启（默认）、false-关闭\
+
+  datasource:
+#    需要加&nullCatalogMeansCurrent=true否则不创建表(mysql版本问题)
+    url: jdbc:mysql://47.99.105.168:3306/activiti_test_01?useUnicode=true&characterEncoding=utf8&useSSL=false&nullCatalogMeansCurrent=true
+    username: root
+    password: hzjs123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+#    type: com.alibaba.druid.pool.DruidDataSource
+    dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+    initialization-mode: always
+    tomcat:
+      max-active: 200
+      max-wait: 5000
+    ddl-auto: update
+  security:
+    user:
+      name: admin 
+      password: admin
+
+  autoconfigure:
+    exclude: org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfiguration
+  mvc:
+    # 静态资源路径
+    static-path-pattern: /static/**
+  jpa:
+    show-sql: true
+    #properties:该配置不应该有，层级关系不对，导致表不能自动生成(单数据源)，需要配置文件(可用于多数据源配置)
+    hibernate:
+      ddl-auto: update
+  jackson:
+    time-zone: GMT+8
+    date-format: yyyy-MM-dd HH:mm:ss
+    default-property-inclusion: non_null
+
+  redis:
+    database: 3
+    host: 47.99.105.168
+    port: 6379
+    password: hzjs1234
+    #    password: 123456
+    #    timeout: 0
+    jedis:
+      pool:
+        max-idle: 50
+        min-idle: 1
+        maxActive: 30
+        maxWait: 30000
+swagger:
+  enabled: true
+
+server:
+  port: 38438
+  tomcat:
+    accept-count: 1000
+    max-threads: 1500
+    min-spare-threads: 150
+    max-connections: 20000

@@ -1,0 +1,15 @@
+
+^	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(àÆï¸ÿÿÿÿÿ
+€
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Å˜éË
+X	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(®¼§a
+^	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Å¤ƒ‹úÿÿÿÿ
+^	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(œ•üşÿÿÿÿ
+Y	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Å˜éË
+W
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ìøôÖùÿÿÿÿ
+D
+java:S1874"0Remove this use of "SQLQuery"; it is deprecated.(»ê”´
+T	java:S125"<This block of commented-out lines of code should be removed.(ªÉñÊıÿÿÿÿ
+P
+java:S1874"<Remove this use of "setResultTransformer"; it is deprecated.(»ê”´

@@ -1,0 +1,14 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Äí Ÿ
+o
+java:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ôİ¿Ó
+[	java:S112t"FDefine and throw a dedicated exception instead of using a generic one.(Â¨šñ
+t
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(¦ Òÿÿÿÿÿ
+[	java:S112B"FDefine and throw a dedicated exception instead of using a generic one.(øıÔô
+t
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(Çİ³ºûÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ

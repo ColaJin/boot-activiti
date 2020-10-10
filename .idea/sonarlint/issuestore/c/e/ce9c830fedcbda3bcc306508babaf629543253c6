@@ -1,0 +1,22 @@
+
+a	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(®Á ,8¾½ë¿¼.
+b	java:S112q"FDefine and throw a dedicated exception instead of using a generic one.(¾ë¾ê8¾½ë¿¼.
+g	java:S112|"FDefine and throw a dedicated exception instead of using a generic one.( §Ä’øÿÿÿÿ8¾½ë¿¼.
+V
+java:S1118":Add a private constructor to hide the implicit public one.(Áç”8¾½ë¿¼.
+t
+java:S2737."WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û8¾½ë¿¼.
+U
+java:S1874V"9Remove this use of "StringEscapeUtils"; it is deprecated.(¬—™/8¾½ë¿¼.
+[
+java:S1874]"9Remove this use of "StringEscapeUtils"; it is deprecated.(¬Ñİşûÿÿÿÿ8¾½ë¿¼.
+V
+java:S1874d"9Remove this use of "StringEscapeUtils"; it is deprecated.(­üó£8¾½ë¿¼.
+N
+java:S1874d"1Remove this use of "escapeXml"; it is deprecated.(­üó£8¾½ë¿¼.
+V
+java:S1874k"9Remove this use of "StringEscapeUtils"; it is deprecated.(‹ÏÒ8¾½ë¿¼.
+t
+java:S2737u"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û8¾½ë¿¼.
+u
+java:S2737"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û8¾½ë¿¼.

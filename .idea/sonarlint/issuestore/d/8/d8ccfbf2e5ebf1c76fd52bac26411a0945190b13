@@ -1,0 +1,57 @@
+
+m
+java:S1192£"OUse already-defined constant 'secretKey' instead of duplicating its value here.(‚‘ç©8û¸ë¿¼.
+Y	java:S125×"<This block of commented-out lines of code should be removed.(æ¨Íé8û¸ë¿¼.
+X	java:S125½"<This block of commented-out lines of code should be removed.(ÏÓ¥+8û¸ë¿¼.
+X	java:S125„"<This block of commented-out lines of code should be removed.(ÏÓ¥+8û¸ë¿¼.
+b	java:S112X"FDefine and throw a dedicated exception instead of using a generic one.(‚¬ÓË8Äïí¿¼.
+`
+java:S1117“"=Rename "secretKey" which hides the field declared at line 39.(°äÑ›ûÿÿÿÿ8û¸ë¿¼.
+[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8û¸ë¿¼.
+Z
+java:S1117n"=Rename "secretKey" which hides the field declared at line 39.(ª–ÙÓ8û¸ë¿¼.
+{
+java:S2293v"YReplace the type specification in this constructor call with the diamond operator ("<>").(öú³şÿÿÿÿ8û¸ë¿¼.
+b	java:S112^"FDefine and throw a dedicated exception instead of using a generic one.(‚¢™ä8û¸ë¿¼.
+[	java:S106€"9Replace this use of System.out or System.err by a logger.(Ş‘›ïøÿÿÿÿ8û¸ë¿¼.
+|
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ş¦ˆ—ıÿÿÿÿ8û¸ë¿¼.
+`
+java:S1117Á"=Rename "secretKey" which hides the field declared at line 39.(°äÑ›ûÿÿÿÿ8û¸ë¿¼.
+`
+java:S1117ò"=Rename "secretKey" which hides the field declared at line 39.(°äÑ›ûÿÿÿÿ8û¸ë¿¼.
+Y	java:S125ó"<This block of commented-out lines of code should be removed.(“šÜ8û¸ë¿¼.
+^	java:S125‰"<This block of commented-out lines of code should be removed.(˜÷ƒüÿÿÿÿ8û¸ë¿¼.
+Y	java:S125Ÿ"<This block of commented-out lines of code should be removed.(æ¨Íé8û¸ë¿¼.
+[	java:S106‚"9Replace this use of System.out or System.err by a logger.(Ş‘›ïøÿÿÿÿ8û¸ë¿¼.
+c
+java:S1192š"FDefine a constant instead of duplicating this literal "redis" 6 times.(Ùñ‡8û¸ë¿¼.
+X	java:S125§"<This block of commented-out lines of code should be removed.(ÏÓ¥+8û¸ë¿¼.
+|
+java:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÅÖæƒşÿÿÿÿ8û¸ë¿¼.
+n	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒøò 8û¸ë¿¼.
+Y	java:S125Ñ"<This block of commented-out lines of code should be removed.(æ¨Íé8û¸ë¿¼.
+l
+java:S1192§"IDefine a constant instead of duplicating this literal "lastDate" 3 times.(Ï«ıÄıÿÿÿÿ8û¸ë¿¼.
+u
+java:S3776È"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ï›ì×ÿÿÿÿÿ8û¸ë¿¼.
+w
+java:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤µõ¹8û¸ë¿¼.
+Y	java:S125±"<This block of commented-out lines of code should be removed.(ÈˆÑ­8û¸ë¿¼.
+{	java:S115'"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÓºÍşÿÿÿÿ8û¸ë¿¼.
+^	java:S125Ü"<This block of commented-out lines of code should be removed.(ò¼Ùüÿÿÿÿ8û¸ë¿¼.
+^	java:S125–"<This block of commented-out lines of code should be removed.(ØãÏµÿÿÿÿÿ8û¸ë¿¼.
+n	java:S117Í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(››ÑÁ8û¸ë¿¼.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8û¸ë¿¼.
+`
+java:S1117¸"=Rename "secretKey" which hides the field declared at line 39.(°äÑ›ûÿÿÿÿ8û¸ë¿¼.
+Y	java:S125ì"<This block of commented-out lines of code should be removed.(“šÜ8û¸ë¿¼.
+g	java:S112Z"FDefine and throw a dedicated exception instead of using a generic one.(Óî­Óüÿÿÿÿ8û¸ë¿¼.
+o
+java:S2259Å"LA "NullPointerException" could be thrown; "permissionsStr" is nullable here.(çŠïˆûÿÿÿÿ8û¸ë¿¼.
+`
+java:S1117ı"=Rename "secretKey" which hides the field declared at line 39.(°äÑ›ûÿÿÿÿ8û¸ë¿¼.
+Y	java:S125Â"<This block of commented-out lines of code should be removed.(“šÜ8û¸ë¿¼.
+o
+java:S3776X"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(‚¬ÓË8û¸ë¿¼.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(Õœÿªşÿÿÿÿ8û¸ë¿¼.
